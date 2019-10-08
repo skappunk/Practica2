@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="menu">Menu</string>
+    <string name="next1">Siguiente</string>
+    <string name="back">Adios</string>
+    <string name="back1">Regresar</string>
+</resources>
